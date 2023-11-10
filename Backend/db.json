@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "ename": "Praveen",
+      "esalary": "3,00,000",
+      "ecompany": "tcs",
+      "id": 1
+    },
+    {
+      "ename": "Meganathan",
+      "ecompany": "infoys",
+      "esalary": "3,00,000",
+      "id": 2
+    },
+    {
+      "ename": "Rajesh",
+      "ecompany": "wipro",
+      "esalary": "3,00,000",
+      "id": 3
+    },
+    {
+      "ename": "Manoj",
+      "ecompany": "tcs",
+      "esalary": "3,00,000",
+      "id": 4
+    },
+    {
+      "ename": "Vicky",
+      "ecompany": "infosys",
+      "esalary": "3,00,000",
+      "id": 5
+    },
+    {
+      "ename": "Ajith",
+      "ecompany": "wipro",
+      "esalary": "3,00,000",
+      "id": 6
+    }
+  ]
+}
